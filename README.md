@@ -9,11 +9,10 @@ Relation set의 구성 및 정의, 가이드라인 작성, 파일럿 및 메인 
 
 ## 팀 구성원
 
-정준녕|임성근|이원재|이정아|김별희|
+김별희|이원재|이정아|임성근|정준녕|
 :-:|:-:|:-:|:-:|:-:
-<img src='https://avatars.githubusercontent.com/u/51015187?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/14817039?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/61496071?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/65378914?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/42535803?v=4' height=80 width=80px></img>
-[Github](https://github.com/ezez-refer)|[Github](https://github.com/lim4349)|[Github](https://github.com/wjlee-ling)|[Github](https://github.com/jjeongah)|[Github](https://github.com/kimbyeolhee)
-
+<img src='https://avatars.githubusercontent.com/u/42535803?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/61496071?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/65378914?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/14817039?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/51015187?v=4' height=80 width=80px></img>
+[Github](https://github.com/kimbyeolhee)|[Github](https://github.com/wjlee-ling)|[Github](https://github.com/jjeongah)|[Github](https://github.com/lim4349)|[Github](https://github.com/ezez-refer)
 
 <br>
 
